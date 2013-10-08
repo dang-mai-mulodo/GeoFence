@@ -71,8 +71,8 @@ public class GeofenceRemover implements
 
         // Initialize the globals to null
         mCurrentGeofenceIds = null;
-        mLocationClient = null;
-        mInProgress = false;
+        mLocationClient 	= null;
+        mInProgress 		= false;
     }
 
     /**
